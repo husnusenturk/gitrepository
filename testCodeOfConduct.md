@@ -6,6 +6,8 @@ In the interest of fostering an open and welcoming environment, we as contributo
 
 ## Our Standards
 
+degisiklik1
+
 Examples of behavior that contributes to creating a positive environment include:
 
 * Using welcoming and inclusive language
@@ -30,6 +32,7 @@ Project maintainers have the right and responsibility to remove, edit, or reject
 
 ## Scope
 
+degisiklik2
 This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
 
 ## Enforcement
